@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@900&display=swap");
+@import url("/css/whitneymedium.otf");
+
+/*-----Variables------*/
+:root {
+  /*  FONTS */
+  --font-headline: "Poppins", sans-serif;
+  --body-font: "whitneymedium", sans-serif;
+  /*--------*/
+
+  /*Colors*/
+  --brand: #5865f2;
+  --brand-gradient: linear-gradient(90deg, #8ea1e1, #7289da);
+  --background-card: #f6f6f6;
+  --dark-not-black: #2c2f33;
+  --focus-border: #00b0f4;
+  --status-green: #43b581;
+  --text-link: #00b0f4;
+  --off-white: #f6f6f6;
+  --white: #fff;
+  --not-quite-black: #23272a;
+  --not-quite-black-rgb: 35, 39, 42;
+  --black: #000;
+  --ekko-red: #de2761;
+
+  --num-grid-columns: 4;
+  --page-gutter: 24px;
+  --section-spacing: 56px;
+  /*-----*/
+}
+/*---------------*/
